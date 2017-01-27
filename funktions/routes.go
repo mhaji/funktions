@@ -1,4 +1,4 @@
-package funcktions
+package funktions
 
 import "github.com/gorilla/mux"
 

@@ -10,7 +10,7 @@ import (
 
 func main() {
 	r := mux.NewRouter()
-	funcktions.RegisterRoutes(r)
+	funktions.RegisterRoutes(r)
 
 
 	port := 9090

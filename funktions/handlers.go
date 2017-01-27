@@ -1,4 +1,4 @@
-package funcktions
+package funktions
 
 import (
 	"net/http"
